@@ -1,5 +1,5 @@
 baseurl = "https://hiyperion.github.io/myPage/"
-title = "Andres"
+title = "Andres C"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -10,14 +10,14 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "yourdiscussshortname"
+disqusShortname = "Hiyperion"
 
 [params]
-  author = "Andres"
-  info = "Backend Developer and scientist"
-  description = "John Doe's personal website"
+  author = "Andrés Córdova"
+  info = "Backend Developer and Scientist"
+  description = "Andres Cordova's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "fotoPerfil.jpg"
+  avatarurl = "/images/fotoPerfil.jpg"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
@@ -31,7 +31,7 @@ disqusShortname = "yourdiscussshortname"
   [taxonomies]
   category = "categories"
   series = "series"
-  tag = "tags"
+
   author = "authors"
 
   # Social links
@@ -43,17 +43,30 @@ disqusShortname = "yourdiscussshortname"
 
 [[params.social]]
   name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
+  icon = "fa fa-researchgate fa-2x"
   weight = 3
-  url = "https://twitter.com/johndoe/"
+  url = "https://www.researchgate.net/profile/Andres-Cordova-10"
 
-  
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 3
+  url = "https://www.linkedin.com/in/fabriciocordova/"
+
 # Menu links
 [[menu.main]]
-  name = "Blog"
-  weight = 1
-  url  = "posts/"
-[[menu.main]]
   name = "About"
+  weight = 1
+  url  = "about/"
+[[menu.main]]
+  name = "Blog"
   weight = 2
-  url = "about/"
+  url = "blog/"
+[[menu.main]]
+  name = "Projects"
+  weight = 3
+  url = "projects/"
+  [[menu.main]]
+  name = "Contact me"
+  weight = 4
+  url = "contact/"
