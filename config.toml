@@ -14,7 +14,7 @@ disqusShortname = "Hiyperion"
 
 [params]
   author = "Andrés Córdova"
-  info = "Backend Developer and Scientist"
+  info = "Backend Developer and Data Scientist"
   description = "Andres Cordova's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "/images/fotoPerfil.jpg"
