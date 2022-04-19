@@ -1,5 +1,5 @@
-baseurl = "https://www.fabriciocc.com/"
-title = "Andres C"
+baseurl = "https://www.fabriciocc.com"
+title = "Andres Cordova"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
