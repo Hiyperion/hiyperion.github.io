@@ -2,37 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hiyperion.github.io/myPage/</loc>
+    <loc>www.fabriciocc.com/</loc>
+    <lastmod>2022-03-01T16:15:58-05:00</lastmod>
+  </url><url>
+    <loc>www.fabriciocc.com/projects/donum/</loc>
+    <lastmod>2022-03-01T16:15:58-05:00</lastmod>
+  </url><url>
+    <loc>www.fabriciocc.com/projects/</loc>
+    <lastmod>2022-03-01T16:15:58-05:00</lastmod>
+  </url><url>
+    <loc>www.fabriciocc.com/contact/contacto/</loc>
     <lastmod>2022-01-23T16:16:16-05:00</lastmod>
   </url><url>
-    <loc>https://hiyperion.github.io/myPage/contact/contactme/</loc>
+    <loc>www.fabriciocc.com/contact/</loc>
     <lastmod>2022-01-23T16:16:16-05:00</lastmod>
   </url><url>
-    <loc>https://hiyperion.github.io/myPage/contact/</loc>
-    <lastmod>2022-01-23T16:16:16-05:00</lastmod>
+    <loc>www.fabriciocc.com/projects/serviram/</loc>
+    <lastmod>2022-01-01T16:15:58-05:00</lastmod>
   </url><url>
-    <loc>https://hiyperion.github.io/myPage/projects/project_1/</loc>
-    <lastmod>2022-01-23T16:15:58-05:00</lastmod>
+    <loc>www.fabriciocc.com/blog/</loc>
+    <lastmod>2021-12-23T16:15:30-05:00</lastmod>
   </url><url>
-    <loc>https://hiyperion.github.io/myPage/projects/</loc>
-    <lastmod>2022-01-23T16:15:58-05:00</lastmod>
+    <loc>www.fabriciocc.com/blog/primer-post/</loc>
+    <lastmod>2021-12-23T16:15:30-05:00</lastmod>
   </url><url>
-    <loc>https://hiyperion.github.io/myPage/blog/</loc>
-    <lastmod>2021-04-23T16:15:30-05:00</lastmod>
-  </url><url>
-    <loc>https://hiyperion.github.io/myPage/blog/blog_1/</loc>
-    <lastmod>2021-04-23T16:15:30-05:00</lastmod>
-  </url><url>
-    <loc>https://hiyperion.github.io/myPage/about/</loc>
+    <loc>www.fabriciocc.com/about/</loc>
     <lastmod>2021-04-23T15:49:34-05:00</lastmod>
   </url><url>
-    <loc>https://hiyperion.github.io/myPage/about/aboutandres/</loc>
+    <loc>www.fabriciocc.com/about/aboutandres/</loc>
     <lastmod>2021-04-23T15:49:34-05:00</lastmod>
   </url><url>
-    <loc>https://hiyperion.github.io/myPage/authors/</loc>
+    <loc>www.fabriciocc.com/projects/stroop/</loc>
+    <lastmod>2020-05-01T16:15:58-05:00</lastmod>
   </url><url>
-    <loc>https://hiyperion.github.io/myPage/categories/</loc>
+    <loc>www.fabriciocc.com/authors/</loc>
   </url><url>
-    <loc>https://hiyperion.github.io/myPage/series/</loc>
+    <loc>www.fabriciocc.com/categories/</loc>
+  </url><url>
+    <loc>www.fabriciocc.com/series/</loc>
   </url>
 </urlset>

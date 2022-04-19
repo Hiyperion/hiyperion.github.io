@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Andres C</title>
-    <link>https://hiyperion.github.io/myPage/authors/</link>
+    <link>www.fabriciocc.com/authors/</link>
     <description>Recent content in Authors on Andres C</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://hiyperion.github.io/myPage/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="www.fabriciocc.com/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
