@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Andres C</title>
-    <link>www.fabriciocc.com/projects/</link>
-    <description>Recent content in Projects on Andres C</description>
+    <title>Projects on Andres Cordova</title>
+    <link>https://www.fabriciocc.com/projects/</link>
+    <description>Recent content in Projects on Andres Cordova</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Mar 2022 16:15:58 -0500</lastBuildDate><atom:link href="www.fabriciocc.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 16:15:58 -0500</lastBuildDate><atom:link href="https://www.fabriciocc.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project Donum</title>
-      <link>www.fabriciocc.com/projects/donum/</link>
+      <title>Donum generador de proformas</title>
+      <link>https://www.fabriciocc.com/projects/donum/</link>
       <pubDate>Tue, 01 Mar 2022 16:15:58 -0500</pubDate>
       
-      <guid>www.fabriciocc.com/projects/donum/</guid>
-      <description>This is a project using Go</description>
+      <guid>https://www.fabriciocc.com/projects/donum/</guid>
+      <description>Tabla de contenido     Descripción general Tecnologias  GUI Base de datos    Descripción general    Este proyecto fue creado por encargo de la fundación/clínica DONUM en Cuenca-Ecuador. Dentro de los requisitos del cliente tenemos: Administrar productos y servicios; generar proformas; debe poder ejecutarse en al menos 5 ordenadores, no necesariamente en la misma red; generar informes sobre disponibilidad de producto; lanzar alertas cuando no existan productos.</description>
     </item>
     
     <item>
       <title>Project SERVIRAM</title>
-      <link>www.fabriciocc.com/projects/serviram/</link>
+      <link>https://www.fabriciocc.com/projects/serviram/</link>
       <pubDate>Sat, 01 Jan 2022 16:15:58 -0500</pubDate>
       
-      <guid>www.fabriciocc.com/projects/serviram/</guid>
+      <guid>https://www.fabriciocc.com/projects/serviram/</guid>
       <description>This is a project using Go</description>
     </item>
     
     <item>
       <title>Project Stroop</title>
-      <link>www.fabriciocc.com/projects/stroop/</link>
+      <link>https://www.fabriciocc.com/projects/stroop/</link>
       <pubDate>Fri, 01 May 2020 16:15:58 -0500</pubDate>
       
-      <guid>www.fabriciocc.com/projects/stroop/</guid>
+      <guid>https://www.fabriciocc.com/projects/stroop/</guid>
       <description>This is a project using Go</description>
     </item>
     

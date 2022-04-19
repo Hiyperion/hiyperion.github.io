@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on Andres C</title>
-    <link>www.fabriciocc.com/about/</link>
-    <description>Recent content in Abouts on Andres C</description>
+    <title>Abouts on Andres Cordova</title>
+    <link>https://www.fabriciocc.com/about/</link>
+    <description>Recent content in Abouts on Andres Cordova</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Apr 2021 15:49:34 -0500</lastBuildDate><atom:link href="www.fabriciocc.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Apr 2021 15:49:34 -0500</lastBuildDate><atom:link href="https://www.fabriciocc.com/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Andres Cordova Cuenca</title>
-      <link>www.fabriciocc.com/about/aboutandres/</link>
+      <link>https://www.fabriciocc.com/about/aboutandres/</link>
       <pubDate>Fri, 23 Apr 2021 15:49:34 -0500</pubDate>
       
-      <guid>www.fabriciocc.com/about/aboutandres/</guid>
+      <guid>https://www.fabriciocc.com/about/aboutandres/</guid>
       <description>Backend developer    I am Andres Fabricio Cordova Cuenca. I am a backend developer and scientist. Currently, I am working on research in the area of electronics and control. I work as a software developer since 2019.
 I studied electronics and telecommunications at the University of Cuenca in Ecuador.
 I am passionate about software development and everything that this entails. I am a self-taught, responsible and reliable person. One of my main characteristics is the effort I put into the development of my work.</description>
