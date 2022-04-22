@@ -17,7 +17,7 @@ disqusShortname = "Hiyperion"
   info = "Backend Developer and Data Scientist"
   description = "Andres Cordova's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "/images/fotoPerfil.jpg"
+  avatarurl = "https://i.imgur.com/qZVGgqO.png"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
@@ -57,16 +57,12 @@ disqusShortname = "Hiyperion"
 [[menu.main]]
   name = "About"
   weight = 1
-  url  = "about/"
-[[menu.main]]
-  name = "Blog"
-  weight = 2
-  url = "blog/"
+  url  = "about/aboutandres/"
 [[menu.main]]
   name = "Projects"
   weight = 3
   url = "projects/"
-  [[menu.main]]
+[[menu.main]]
   name = "Contact me"
   weight = 4
-  url = "contact/"
+  url = "/contacto/"

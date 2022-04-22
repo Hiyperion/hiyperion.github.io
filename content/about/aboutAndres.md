@@ -1,13 +1,12 @@
 ---
-title: "Andres Cordova Cuenca"
+title: "Andres Fabricio Cordova Cuenca"
 date: 2021-04-23T15:49:34-05:00
 type: "page"
 tags: ["about"]
-image: "../../images/fotoPerfil.jpg"
 ---
 
 # Backend developer
-<!-- ![Mi imagen](../../images/fotoPerfil.jpg) -->
+![](https://i.imgur.com/qZVGgqO.png)
 
 I am Andres Fabricio Cordova Cuenca. I am a backend developer and scientist. Currently, I am working on research in the area of electronics and control. I work as a software developer since 2019.
 
